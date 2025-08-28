@@ -1,6 +1,6 @@
 # 🧾 Code Review: Pokédex Projekt
 
-**⏳ Tidsåtgång:** 45 - 60 minuter
+**⏳ Tidsåtgång:** 60 - 90 minuter
 
 ---
 
