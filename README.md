@@ -6,6 +6,7 @@
 
 ### 1. 👥 Gruppindelning
 * Ni är i grupper om ca 4 personer.
+* [Gruppindelare](https://toolie.se/groupie)
 
 ---
 
