@@ -14,7 +14,6 @@
 * Varje student presenterar sitt projekt i tur och ordning. Fokusera på tankesättet bakom dina lösningar.
     * 🛠️ **Berätta om din process:** Hur tog du dig an uppgiften? Började du med att bygga ut enskilda komponenter, eller satte du upp rutten först?
     * 💻 **Visa upp din kod:** Förklara hur du strukturerat ditt projekt. Visa upp dina **Featured Pokémon** och din lösning för **Random Pokémon**-knappen eller någon annan lösning du hunnit göra.
-    * 😂 **Avdramatisera med en GIF!** Förbered en GIF som representerar din känsla för din inlämning – en rolig twist för att lätta upp stämningen.
 * 💡 **Tips:** Använd live-share för att de andra i gruppen enkelt ska kunna läsa din kod och förbereda frågor.
 
 ---
