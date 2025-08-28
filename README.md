@@ -37,6 +37,9 @@ Efter att alla har presenterat, diskutera följande frågor i gruppen. Jämför 
     * 🎲 Hur löste du slumpningen? Vad är det högsta ID-numret du hämtar? Hur fick du enskilda Pokémon att dyka upp i UI:t efter knapptryckningen?
     * 🖼️ Hur fick du de fyra featured Pokémon att visas när sidan laddas? Vilken Next.js-funktion använde du för att hämta datan asynkront?
     * 🧑‍💻 Stötte du på några problem med **serverkomponenter vs. klientkomponenter**? Var var du tvungen att lägga till `'use client';` och varför?
+ 
+* 🔮 **Framtidsplaner**
+    * 🧗‍♀️ Vad vill du ha åstadkommit under nästa vecka?
 
 ---
 
