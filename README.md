@@ -5,7 +5,7 @@
 ---
 
 ### 1. 👥 Gruppindelning
-* Dela in er i grupper om 3-4 personer.
+* Ni är i grupper om ca 4 personer.
 
 ---
 
